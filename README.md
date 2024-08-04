@@ -6,7 +6,7 @@
 
 <img align="right" alt="" height="190px" src="./src/coding-music.gif">
 
-<h3 align="left">Contact</h3>
+<h3 align="left">Socials</h3>
 
 [![E-mail target="_blank"](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](mailto:erik.ahlert@universo.univates.br)
 [![LinkedIn target="_blank"](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/erik-augusto-a7ab17273)
