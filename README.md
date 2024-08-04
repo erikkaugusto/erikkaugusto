@@ -8,10 +8,9 @@
 
 <h3 align="left">Contact</h3>
 
-[![E-mail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](mailto:erik.ahlert@universo.univates.br)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/invite/erikkaugustoo)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/erik-augusto-a7ab17273)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/erikkaugusto/)
+[![E-mail target="_blank"](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](mailto:erik.ahlert@universo.univates.br)
+[![LinkedIn target="_blank"](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/erik-augusto-a7ab17273)
+[![Instagram target="_blank"](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/erikkaugusto/)
 
 <h3 align="left">Technologies</h3>
 
