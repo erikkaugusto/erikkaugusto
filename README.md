@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=800&color=F73636&width=435&lines=Hello%2C+World!;Eu+sou+o+Erik+Augusto+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p align="justify">Atualmente estou cursando Técnico em Informática na UNIVATES (Universidade do Vale do Taquari). Sempre fui curioso e apaixonado pelas áreas de front-end e back-end, o que me levou a explorar e desenvolver minhas habilidades em ambas as frentes. No momento, estou focado no estudo de JavaScript com ênfase no back-end, buscando aprimorar minhas competências e criar soluções eficientes e inovadoras.
+<p align="justify">Atualmente estou cursando Técnico em Informática na UNIVATES (Universidade do Vale do Taquari). Sempre fui curioso e apaixonado pela área de desenvolvimento/programação, o que me levou a explorar e desenvolver minhas habilidades. No momento, estou focado no estudo de JavaScript no front-end, buscando aprimorar minhas competências e criar soluções eficientes e inovadoras.
 
 #
 
